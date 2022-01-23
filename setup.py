@@ -1,19 +1,15 @@
 from distutils.core import setup
 import os
 
-LOCAL = os.path.dirname(os.path.realpath(__file__))
-README = open(LOCAL+'/README.md')
-
 setup(
     name='ResponsiveTkinter',
     packages=['ResponsiveTkinter'],
     version='1.0.1',
     license='MIT',
     description='This is a simple library that allows you to create responsive widgets in your tkinter window.',
-    long_description=README.read(),
     author='Legopitstop',
     author_email='officiallegopitstop@gmail.com',
-    url='https://legopitstop.weebly.com/media.html',
+    url='https://github.com/legopitstop/ResponsiveTkinter',
     download_url='https://github.com/legopitstop/ResponsiveTkinter/archive/v1.0.1.tar.gz',
     keywords=['responsive', 'tkinter', 'resizeable'],
     classifiers=[
