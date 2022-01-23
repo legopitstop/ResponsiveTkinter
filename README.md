@@ -1,4 +1,4 @@
-# ResponsiveTkinter - 1.0.1
+# ResponsiveTkinter - 1.0.2
 ## What is this
 This is a simple library that allows you to create responsive widgets in your tkinter window. 
 
