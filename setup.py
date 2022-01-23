@@ -11,7 +11,6 @@ setup(
     license='MIT',
     description='This is a simple library that allows you to create responsive widgets in your tkinter window.',
     long_description=README.read(),
-    long_description_content_type="text/markdown",
     author='Legopitstop',
     author_email='officiallegopitstop@gmail.com',
     url='https://legopitstop.weebly.com/media.html',
